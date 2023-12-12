@@ -1,4 +1,11 @@
-### Hi there 👋
+# Hi there, I'm Deivi 👋
+
+## 🚀 About Me
+I'm currently a student at Kood/Jõhvi, where I'm learning and developing skills in GO, Javascript and more.
+
+## 🌟 Projects
+- **Social-network**: Team project. Creating a Facebook-like social network using JS framework. Backend is built with GO and the frontend uses Next.JS and Typescript. It features real-time messaging implemented through WebSocket.  [Link to repo](https://github.com/deivijy/social-network)
+
 
 <!--
 **deivijy/deivijy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
